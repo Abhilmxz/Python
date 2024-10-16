@@ -3,7 +3,7 @@ b=int(input("Enter Second Number : "))
 
 print("Before swapping a :",a)
 print("Before swapping b :",b)
-#logic to swap without using third variable 
+
 a=a+b 
 b
 
